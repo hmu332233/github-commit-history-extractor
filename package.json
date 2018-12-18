@@ -1,0 +1,22 @@
+{
+  "name": "history-extractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmu332233/github-commit-history-extractor.git"
+  },
+  "author": "minung.han",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hmu332233/github-commit-history-extractor/issues"
+  },
+  "homepage": "https://github.com/hmu332233/github-commit-history-extractor#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
